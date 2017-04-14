@@ -1,0 +1,9 @@
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\stdlib\documents\visual studio 2015\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
